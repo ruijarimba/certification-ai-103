@@ -24,6 +24,7 @@ Use short sentences and short paragraphs. Write as if you are helping someone wh
 - Use plain words instead of fancy words.
 - Use active voice: say who does what.
 - Use second person when you give guidance: use "you".
+- Use the Oxford comma in lists when it makes the meaning clearer.
 - Avoid unnecessary jargon and buzzwords.
 - Avoid filler phrases like "in order to", "as a matter of fact", and "please note".
 

@@ -23,6 +23,7 @@ The goal is to produce high-yield, structured, original study materials that hel
 
 - **Strict anti-plagiarism rule:** Never copy passages, paragraphs, or exercise text verbatim from Microsoft Learn, exam dumps, or third-party training courses.
 - Summarize all concepts, processes, and service descriptions in original words.
+- When researching Microsoft documentation for AI-103 content, prefer the Microsoft Learn MCP server first, then verify important details against the linked Microsoft Learn page.
 - Brief, original summaries of Azure services are required. Always link directly to the official Microsoft Learn documentation page for definitive product behavior, limits, and tutorials.
 - Verify product names, current SKUs, supported model versions, and API behaviors against authoritative Microsoft documentation before committing.
 

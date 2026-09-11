@@ -28,6 +28,7 @@ This repository contains study notes and reference documentation for the Microso
 
 - **Original content only:** Summarize certification content in original words. Never copy Microsoft Learn passages verbatim into this repository.
 - Brief descriptions of Azure services are allowed and encouraged when they are original, accurate, and linked to official Microsoft documentation.
+- When you need Microsoft documentation or reference material, use the Microsoft Learn MCP server first, then verify important details against the linked Microsoft Learn page.
 - Prefer concise notes, comparison tables, Mermaid diagrams, and decision matrices that aid study and recall.
 - Keep module notes separate from Azure service reference pages: modular concepts go in `docs/modules/`, reusable service references go in `docs/azure-services/`.
 

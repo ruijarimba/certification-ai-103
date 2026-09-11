@@ -55,6 +55,7 @@ Write so that a non-native English speaker with intermediate proficiency can und
 - Keep list items parallel: start each item with the same part of speech (all nouns, all
   verbs, all sentences).
 - Do not nest lists more than two levels deep.
+- Use the Oxford comma in series when it improves clarity.
 - Do not end list items with a semicolon. End with a period only if the item is a full
   sentence; otherwise leave it without punctuation.
 

@@ -13,3 +13,7 @@ modules/
 ```
 
 Module pages should summarize the certification content in original words. Link to service pages under `docs/azure-services/` when a service appears across multiple modules.
+
+## Module pages
+
+- [Plan and manage an Azure AI solution](01-plan-and-manage-an-azure-ai-solution/README.md)
